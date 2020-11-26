@@ -1,7 +1,8 @@
 mm/dd/yyyy | hh:mm:ss | x → transcript | title
 
 12/27/2009 | 00:00:00 | bit.ly/3m6EIje | Star Wars YouTube Battle
-01/04/2014 | 00:00:00 | bit.ly/33zIhHx | Man Behind Epic Phantom Menace Review Speaks
+01/04/2010 | 00:00:00 | bit.ly/33zIhHx | Man Behind Epic Phantom Menace Review Speaks
+01/10/2010 | 00:00:00 | bit.ly/33dTGfR | Who says criticism is dead? On video essays, mash-ups and The Phantom Menace Review
 03/14/2010 | 00:00:00 | bit.ly/3nvhJ1q | Quint renders a verdict in THE PEOPLE VS. GEORGE LUCAS at SXSW
 03/15/2010 | 00:00:00 | bit.ly/3fatyHt | RedLetterMedia's Spin on the Crazed YouTube Reviewer
 04/05/2010 | 00:00:00 | bit.ly/2HdKJeI | Red Letter Media at it Again With 90-Minute Review of Attack of the Clones

@@ -77,7 +77,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title
 12/11/2017 | 00:00:00 | bit.ly/3fgc0d6 | Why I Love the Star Wars Prequels (and you should, too)
 12/19/2017 | 00:00:00 | bit.ly/32Uf4GD | The End Is Night Is a More Brainy Brutal Platformer
 10/24/2018 | 00:00:00 | bit.ly/2Uy7SeQ | Macaulay Culkin - Surprising appearance on YouTube critics
-11/30/2018 | 00:00:00 | bit.ly/2UASG0z | People - Julia Roberts Wore a Bear Costume and Handed Out Birthday Cakes at Pizza Parlor as a Teenager
+11/30/2018 | 00:00:00 | bit.ly/3mccmnw | Julia Roberts Wore a Bear Costume and Handed Out Birthday Cakes at Pizza Parlor as a Teenager
 03/20/2020 | 00:00:00 | bit.ly/3pROd8j | Mandatory Milwaukee: Red Letter Media remains the reigning champ of online review culture
 
 https://archive.is/IQGGn

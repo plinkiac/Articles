@@ -25,6 +25,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 09/20/2012 | 00:00:00 | bit.ly/2HdL94M | 10 reasons to get excited for the 2012 Milwaukee Film Festival
 10/17/2012 | 00:00:00 | bit.ly/3faQ6rm | Old Milwaukee Really Does Pay For Its Commercials With Beer, Not Money
 11/02/2012 | 00:00:00 | bit.ly/2IBFt5q | 4 Reasons You Should Be Thrilled Disney Bought Star Wars
+11/23/2012 | 00:00:00 | bit.ly/3q1nWEi | COOL VIDEOS: CHECK OUT RED LETTER MEDIA'S REVIEW OF TWILIGHT: BREAKING DAWN - PART 2
 01/31/2013 | 00:00:00 | bit.ly/3nzm2sB | That Awful Film, Incredibly, Has a Following
 05/21/2013 | 00:00:00 | bit.ly/3lLYGQc | Oswalt Live Tweets His TV Show Favorites
 06/03/2013 | 00:00:00 | bit.ly/3nvSxYI | Red Letter Media Breaks Down References in Star Trek Into Darkness

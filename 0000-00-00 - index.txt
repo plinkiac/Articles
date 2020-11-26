@@ -18,6 +18,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 02/10/2012 | 00:00:00 | bit.ly/3lGgDQ0 | Red Letter Media's Phantom Menace Commentary Track
 02/27/2012 | 00:00:00 | bit.ly/36KXMNl | Revenge of Red Letter Media (in 3-D!)
 04/25/2012 | 00:00:00 | bit.ly/3nOUUWw | Millions follow fake movie reviewer and serial killer online
+06/17/2012 | 00:00:00 | bit.ly/2J8TQOm | What’s Wrong With ‘Prometheus’? Video Explains Movie’s Faults
 06/26/2012 | 00:00:00 | bit.ly/3pwzI9w | Mike Stoklasa - Not a Snarky, Complaining, Armchair Critic, Come On!
 09/20/2012 | 00:00:00 | bit.ly/2HdL94M | 10 reasons to get excited for the 2012 Milwaukee Film Festival
 10/17/2012 | 00:00:00 | bit.ly/3faQ6rm | Old Milwaukee Really Does Pay For Its Commercials With Beer, Not Money
@@ -56,3 +57,5 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 10/24/2018 | 00:00:00 | bit.ly/2Uy7SeQ | Macaulay Culkin - Surprising appearance on YouTube critics
 11/30/2018 | 00:00:00 | bit.ly/2UASG0z | People - Julia Roberts Wore a Bear Costume and Handed Out Birthday Cakes at Pizza Parlor as a Teenager
 03/20/2020 | 00:00:00 | bit.ly/3pROd8j | Mandatory Milwaukee: Red Letter Media remains the reigning champ of online review culture
+
+https://archive.is/IQGGn

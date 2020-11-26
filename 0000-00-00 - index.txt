@@ -18,6 +18,7 @@ mm/dd/yyyy | hh:mm:ss | x → transcript | title + (participants)
 02/10/2012 | 00:00:00 | bit.ly/3lGgDQ0 | Red Letter Media's Phantom Menace Commentary Track
 02/27/2012 | 00:00:00 | bit.ly/36KXMNl | Revenge of Red Letter Media (in 3-D!)
 04/25/2012 | 00:00:00 | bit.ly/3nOUUWw | Millions follow fake movie reviewer and serial killer online
+06/12/2012 | 00:00:00 | bit.ly/2V5nh6x | LOL: Red Letter Media Has Questions About ‘Prometheus’
 06/17/2012 | 00:00:00 | bit.ly/2J8TQOm | What’s Wrong With ‘Prometheus’? Video Explains Movie’s Faults
 06/18/2012 | 00:00:00 | bit.ly/3fyUHUC | Adam Sandler's house of cruelty
 06/26/2012 | 00:00:00 | bit.ly/3pwzI9w | Mike Stoklasa - Not a Snarky, Complaining, Armchair Critic, Come On!
